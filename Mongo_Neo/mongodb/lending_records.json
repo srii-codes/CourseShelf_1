@@ -1,0 +1,317 @@
+[
+  {
+    "record_id": "L001",
+    "book_id": "B025",
+    "lender_id": "S005",
+    "borrower_id": "S008",
+    "borrowed_on": "2026-08-26",
+    "due_date": "2026-10-01",
+    "returned_on": "2026-09-10"
+  },
+  {
+    "record_id": "L002",
+    "book_id": "B032",
+    "lender_id": "S017",
+    "borrower_id": "S042",
+    "borrowed_on": "2026-08-15",
+    "due_date": "2026-08-21",
+    "returned_on": null
+  },
+  {
+    "record_id": "L003",
+    "book_id": "B014",
+    "lender_id": "S027",
+    "borrower_id": "S002",
+    "borrowed_on": "2026-08-04",
+    "due_date": "2026-09-28",
+    "returned_on": "2026-08-08"
+  },
+  {
+    "record_id": "L004",
+    "book_id": "B022",
+    "lender_id": "S025",
+    "borrower_id": "S032",
+    "borrowed_on": "2026-07-07",
+    "due_date": "2026-08-01",
+    "returned_on": null
+  },
+  {
+    "record_id": "L005",
+    "book_id": "B008",
+    "lender_id": "S012",
+    "borrower_id": "S008",
+    "borrowed_on": "2026-09-04",
+    "due_date": "2026-10-05",
+    "returned_on": "2026-09-08"
+  },
+  {
+    "record_id": "L006",
+    "book_id": "B008",
+    "lender_id": "S023",
+    "borrower_id": "S050",
+    "borrowed_on": "2026-08-20",
+    "due_date": "2026-10-04",
+    "returned_on": "2026-08-21"
+  },
+  {
+    "record_id": "L007",
+    "book_id": "B019",
+    "lender_id": "S046",
+    "borrower_id": "S007",
+    "borrowed_on": "2026-08-10",
+    "due_date": "2026-10-05",
+    "returned_on": null
+  },
+  {
+    "record_id": "L008",
+    "book_id": "B011",
+    "lender_id": "S005",
+    "borrower_id": "S035",
+    "borrowed_on": "2026-07-30",
+    "due_date": "2026-08-11",
+    "returned_on": null
+  },
+  {
+    "record_id": "L009",
+    "book_id": "B047",
+    "lender_id": "S026",
+    "borrower_id": "S017",
+    "borrowed_on": "2026-08-27",
+    "due_date": "2026-08-29",
+    "returned_on": null
+  },
+  {
+    "record_id": "L010",
+    "book_id": "B025",
+    "lender_id": "S008",
+    "borrower_id": "S022",
+    "borrowed_on": "2026-08-29",
+    "due_date": "2026-09-27",
+    "returned_on": null
+  },
+  {
+    "record_id": "L011",
+    "book_id": "B027",
+    "lender_id": "S046",
+    "borrower_id": "S021",
+    "borrowed_on": "2026-06-28",
+    "due_date": "2026-08-23",
+    "returned_on": "2026-07-06"
+  },
+  {
+    "record_id": "L012",
+    "book_id": "B044",
+    "lender_id": "S028",
+    "borrower_id": "S035",
+    "borrowed_on": "2026-08-02",
+    "due_date": "2026-10-02",
+    "returned_on": "2026-08-04"
+  },
+  {
+    "record_id": "L013",
+    "book_id": "B030",
+    "lender_id": "S013",
+    "borrower_id": "S029",
+    "borrowed_on": "2026-07-23",
+    "due_date": "2026-09-19",
+    "returned_on": null
+  },
+  {
+    "record_id": "L014",
+    "book_id": "B050",
+    "lender_id": "S005",
+    "borrower_id": "S030",
+    "borrowed_on": "2026-07-11",
+    "due_date": "2026-07-25",
+    "returned_on": "2026-07-19"
+  },
+  {
+    "record_id": "L015",
+    "book_id": "B031",
+    "lender_id": "S045",
+    "borrower_id": "S003",
+    "borrowed_on": "2026-07-11",
+    "due_date": "2026-09-10",
+    "returned_on": null
+  },
+  {
+    "record_id": "L016",
+    "book_id": "B034",
+    "lender_id": "S037",
+    "borrower_id": "S026",
+    "borrowed_on": "2026-08-12",
+    "due_date": "2026-08-23",
+    "returned_on": "2026-08-21"
+  },
+  {
+    "record_id": "L017",
+    "book_id": "B027",
+    "lender_id": "S006",
+    "borrower_id": "S023",
+    "borrowed_on": "2026-07-18",
+    "due_date": "2026-09-26",
+    "returned_on": "2026-07-29"
+  },
+  {
+    "record_id": "L018",
+    "book_id": "B050",
+    "lender_id": "S005",
+    "borrower_id": "S013",
+    "borrowed_on": "2026-08-25",
+    "due_date": "2026-09-27",
+    "returned_on": "2026-09-04"
+  },
+  {
+    "record_id": "L019",
+    "book_id": "B011",
+    "lender_id": "S004",
+    "borrower_id": "S012",
+    "borrowed_on": "2026-09-07",
+    "due_date": "2026-09-15",
+    "returned_on": null
+  },
+  {
+    "record_id": "L020",
+    "book_id": "B011",
+    "lender_id": "S019",
+    "borrower_id": "S049",
+    "borrowed_on": "2026-08-27",
+    "due_date": "2026-09-16",
+    "returned_on": null
+  },
+  {
+    "record_id": "L021",
+    "book_id": "B011",
+    "lender_id": "S016",
+    "borrower_id": "S032",
+    "borrowed_on": "2026-07-05",
+    "due_date": "2026-07-12",
+    "returned_on": null
+  },
+  {
+    "record_id": "L022",
+    "book_id": "B003",
+    "lender_id": "S016",
+    "borrower_id": "S004",
+    "borrowed_on": "2026-07-25",
+    "due_date": "2026-07-29",
+    "returned_on": null
+  },
+  {
+    "record_id": "L023",
+    "book_id": "B028",
+    "lender_id": "S028",
+    "borrower_id": "S020",
+    "borrowed_on": "2026-07-25",
+    "due_date": "2026-07-28",
+    "returned_on": null
+  },
+  {
+    "record_id": "L024",
+    "book_id": "B023",
+    "lender_id": "S039",
+    "borrower_id": "S050",
+    "borrowed_on": "2026-08-10",
+    "due_date": "2026-10-05",
+    "returned_on": "2026-09-07"
+  },
+  {
+    "record_id": "L025",
+    "book_id": "B038",
+    "lender_id": "S046",
+    "borrower_id": "S046",
+    "borrowed_on": "2026-08-15",
+    "due_date": "2026-08-17",
+    "returned_on": null
+  },
+  {
+    "record_id": "L026",
+    "book_id": "B003",
+    "lender_id": "S025",
+    "borrower_id": "S007",
+    "borrowed_on": "2026-08-30",
+    "due_date": "2026-09-05",
+    "returned_on": "2026-09-03"
+  },
+  {
+    "record_id": "L027",
+    "book_id": "B014",
+    "lender_id": "S035",
+    "borrower_id": "S006",
+    "borrowed_on": "2026-07-23",
+    "due_date": "2026-09-14",
+    "returned_on": null
+  },
+  {
+    "record_id": "L028",
+    "book_id": "B027",
+    "lender_id": "S012",
+    "borrower_id": "S027",
+    "borrowed_on": "2026-08-07",
+    "due_date": "2026-08-23",
+    "returned_on": null
+  },
+  {
+    "record_id": "L029",
+    "book_id": "B019",
+    "lender_id": "S007",
+    "borrower_id": "S026",
+    "borrowed_on": "2026-07-04",
+    "due_date": "2026-10-08",
+    "returned_on": "2026-08-25"
+  },
+  {
+    "record_id": "L030",
+    "book_id": "B029",
+    "lender_id": "S007",
+    "borrower_id": "S035",
+    "borrowed_on": "2026-09-08",
+    "due_date": "2026-09-25",
+    "returned_on": null
+  },
+  {
+    "record_id": "L031",
+    "book_id": "B009",
+    "lender_id": "S034",
+    "borrower_id": "S019",
+    "borrowed_on": "2026-08-13",
+    "due_date": "2026-08-13",
+    "returned_on": "2026-08-13"
+  },
+  {
+    "record_id": "L032",
+    "book_id": "B016",
+    "lender_id": "S013",
+    "borrower_id": "S016",
+    "borrowed_on": "2026-07-07",
+    "due_date": "2026-07-27",
+    "returned_on": null
+  },
+  {
+    "record_id": "L033",
+    "book_id": "B035",
+    "lender_id": "S049",
+    "borrower_id": "S030",
+    "borrowed_on": "2026-08-15",
+    "due_date": "2026-10-08",
+    "returned_on": null
+  },
+  {
+    "record_id": "L034",
+    "book_id": "B023",
+    "lender_id": "S023",
+    "borrower_id": "S028",
+    "borrowed_on": "2026-07-07",
+    "due_date": "2026-07-20",
+    "returned_on": null
+  },
+  {
+    "record_id": "L035",
+    "book_id": "B016",
+    "lender_id": "S016",
+    "borrower_id": "S004",
+    "borrowed_on": "2026-07-16",
+    "due_date": "2026-07-16",
+    "returned_on": null
+  }
+]

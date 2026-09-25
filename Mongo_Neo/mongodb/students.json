@@ -1,0 +1,526 @@
+[
+  {
+    "student_id": "S001",
+    "name": "Cindy Lopez",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "ECE301"
+    ],
+    "contact": "john66@example.net"
+  },
+  {
+    "student_id": "S002",
+    "name": "Trevor Moore",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE301",
+      "ECE302"
+    ],
+    "contact": "karen22@example.net"
+  },
+  {
+    "student_id": "S003",
+    "name": "Sherry Jackson",
+    "department": "IT",
+    "courses_enrolled": [
+      "ECE302",
+      "IT301",
+      "CSE302"
+    ],
+    "contact": "hayesdeborah@example.com"
+  },
+  {
+    "student_id": "S004",
+    "name": "Gerald Wright",
+    "department": "ECE",
+    "courses_enrolled": [
+      "IT301",
+      "ECE302"
+    ],
+    "contact": "elizabeth12@example.net"
+  },
+  {
+    "student_id": "S005",
+    "name": "Darryl Cole",
+    "department": "ECE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE301",
+      "CSE303"
+    ],
+    "contact": "tinamerritt@example.com"
+  },
+  {
+    "student_id": "S006",
+    "name": "Vanessa Smith",
+    "department": "ECE",
+    "courses_enrolled": [
+      "IT301",
+      "CSE303",
+      "ECE301"
+    ],
+    "contact": "nathanmiller@example.com"
+  },
+  {
+    "student_id": "S007",
+    "name": "Sherry Shelton",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "ECE301",
+      "IT301"
+    ],
+    "contact": "richard00@example.org"
+  },
+  {
+    "student_id": "S008",
+    "name": "Maria Olson",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE301"
+    ],
+    "contact": "rachel61@example.com"
+  },
+  {
+    "student_id": "S009",
+    "name": "Brittany Peck",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE301",
+      "CSE302",
+      "IT301"
+    ],
+    "contact": "ricelatoya@example.net"
+  },
+  {
+    "student_id": "S010",
+    "name": "Philip Gilbert",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE303",
+      "CSE301"
+    ],
+    "contact": "lisa65@example.net"
+  },
+  {
+    "student_id": "S011",
+    "name": "Andrew Beasley",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "ECE301",
+      "CSE301"
+    ],
+    "contact": "meredithwolf@example.com"
+  },
+  {
+    "student_id": "S012",
+    "name": "Brandon Moore",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE302",
+      "ECE302"
+    ],
+    "contact": "stephanie11@example.org"
+  },
+  {
+    "student_id": "S013",
+    "name": "Heather Booth",
+    "department": "IT",
+    "courses_enrolled": [
+      "IT301",
+      "CSE303"
+    ],
+    "contact": "bradleydaniel@example.org"
+  },
+  {
+    "student_id": "S014",
+    "name": "Cassandra Johnson",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "IT301",
+      "ECE301"
+    ],
+    "contact": "tgeorge@example.com"
+  },
+  {
+    "student_id": "S015",
+    "name": "Lauren Stewart",
+    "department": "ECE",
+    "courses_enrolled": [
+      "IT301",
+      "ECE302"
+    ],
+    "contact": "roythomas@example.net"
+  },
+  {
+    "student_id": "S016",
+    "name": "Darrell Barry",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "CSE303"
+    ],
+    "contact": "krobinson@example.com"
+  },
+  {
+    "student_id": "S017",
+    "name": "Jason Orozco",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "IT301"
+    ],
+    "contact": "elizabethtrevino@example.com"
+  },
+  {
+    "student_id": "S018",
+    "name": "Christina Kramer",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "ECE302"
+    ],
+    "contact": "stephaniejackson@example.org"
+  },
+  {
+    "student_id": "S019",
+    "name": "David Holmes",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE302"
+    ],
+    "contact": "julie51@example.net"
+  },
+  {
+    "student_id": "S020",
+    "name": "Katherine Baker",
+    "department": "IT",
+    "courses_enrolled": [
+      "IT301",
+      "CSE303"
+    ],
+    "contact": "erika44@example.net"
+  },
+  {
+    "student_id": "S021",
+    "name": "Lauren Wagner",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE303",
+      "CSE301"
+    ],
+    "contact": "adkinsjason@example.org"
+  },
+  {
+    "student_id": "S022",
+    "name": "Evan Tucker",
+    "department": "IT",
+    "courses_enrolled": [
+      "ECE302",
+      "IT301"
+    ],
+    "contact": "brownkayla@example.com"
+  },
+  {
+    "student_id": "S023",
+    "name": "Elizabeth Case",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE302",
+      "CSE301"
+    ],
+    "contact": "sharpmichael@example.org"
+  },
+  {
+    "student_id": "S024",
+    "name": "Mrs. Tina Smith",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "IT301",
+      "CSE303"
+    ],
+    "contact": "watsonjo@example.net"
+  },
+  {
+    "student_id": "S025",
+    "name": "Rachael Brooks",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "CSE302",
+      "IT301"
+    ],
+    "contact": "michaelgarcia@example.net"
+  },
+  {
+    "student_id": "S026",
+    "name": "Michael Garcia",
+    "department": "IT",
+    "courses_enrolled": [
+      "ECE302",
+      "ECE301",
+      "CSE301"
+    ],
+    "contact": "kellydale@example.net"
+  },
+  {
+    "student_id": "S027",
+    "name": "Elizabeth Weaver",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE303",
+      "ECE302"
+    ],
+    "contact": "nicholas85@example.org"
+  },
+  {
+    "student_id": "S028",
+    "name": "Stephen Scott",
+    "department": "CSE",
+    "courses_enrolled": [
+      "IT301",
+      "ECE301",
+      "CSE303"
+    ],
+    "contact": "frostsandra@example.net"
+  },
+  {
+    "student_id": "S029",
+    "name": "Linda Yang",
+    "department": "CSE",
+    "courses_enrolled": [
+      "IT301",
+      "ECE301"
+    ],
+    "contact": "sharonjohnson@example.com"
+  },
+  {
+    "student_id": "S030",
+    "name": "Jillian Burnett",
+    "department": "CSE",
+    "courses_enrolled": [
+      "IT301",
+      "CSE303",
+      "CSE302"
+    ],
+    "contact": "ray60@example.org"
+  },
+  {
+    "student_id": "S031",
+    "name": "Tabitha Brock",
+    "department": "CSE",
+    "courses_enrolled": [
+      "IT301",
+      "CSE302",
+      "CSE301"
+    ],
+    "contact": "amy00@example.org"
+  },
+  {
+    "student_id": "S032",
+    "name": "Kyle Williams",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE303",
+      "ECE301",
+      "CSE302"
+    ],
+    "contact": "kenneth44@example.net"
+  },
+  {
+    "student_id": "S033",
+    "name": "Sara Meyer",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE301",
+      "CSE303",
+      "ECE301"
+    ],
+    "contact": "jessesmith@example.com"
+  },
+  {
+    "student_id": "S034",
+    "name": "Jordan Brown",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE302"
+    ],
+    "contact": "zhuber@example.net"
+  },
+  {
+    "student_id": "S035",
+    "name": "Christine Brown",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE301",
+      "CSE303"
+    ],
+    "contact": "laura70@example.net"
+  },
+  {
+    "student_id": "S036",
+    "name": "Benjamin Gardner",
+    "department": "ECE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE303"
+    ],
+    "contact": "santanaerica@example.com"
+  },
+  {
+    "student_id": "S037",
+    "name": "Brandon Buchanan",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE303",
+      "CSE302"
+    ],
+    "contact": "lisamedina@example.com"
+  },
+  {
+    "student_id": "S038",
+    "name": "Charles Daniels",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "ECE301",
+      "CSE302"
+    ],
+    "contact": "lcarr@example.com"
+  },
+  {
+    "student_id": "S039",
+    "name": "Brian Cohen",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE301",
+      "IT301"
+    ],
+    "contact": "cookryan@example.net"
+  },
+  {
+    "student_id": "S040",
+    "name": "John Fitzpatrick",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE302",
+      "CSE301"
+    ],
+    "contact": "kaitlynhardin@example.com"
+  },
+  {
+    "student_id": "S041",
+    "name": "Steven Vazquez",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "CSE301",
+      "IT301"
+    ],
+    "contact": "johncarter@example.org"
+  },
+  {
+    "student_id": "S042",
+    "name": "Melissa Franco",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "CSE301"
+    ],
+    "contact": "velasquezandrea@example.org"
+  },
+  {
+    "student_id": "S043",
+    "name": "Lisa English",
+    "department": "IT",
+    "courses_enrolled": [
+      "CSE302",
+      "CSE301",
+      "IT301"
+    ],
+    "contact": "phillipsleah@example.org"
+  },
+  {
+    "student_id": "S044",
+    "name": "Carlos Wallace",
+    "department": "CSE",
+    "courses_enrolled": [
+      "ECE301",
+      "CSE303",
+      "ECE302"
+    ],
+    "contact": "dylan57@example.org"
+  },
+  {
+    "student_id": "S045",
+    "name": "Travis Garcia",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE302",
+      "CSE303"
+    ],
+    "contact": "sharon40@example.com"
+  },
+  {
+    "student_id": "S046",
+    "name": "Katelyn Vance",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE301",
+      "IT301"
+    ],
+    "contact": "reginajames@example.net"
+  },
+  {
+    "student_id": "S047",
+    "name": "Christopher Garza",
+    "department": "ECE",
+    "courses_enrolled": [
+      "ECE301",
+      "IT301",
+      "CSE302"
+    ],
+    "contact": "xporter@example.net"
+  },
+  {
+    "student_id": "S048",
+    "name": "Stephanie Pugh",
+    "department": "ECE",
+    "courses_enrolled": [
+      "CSE303",
+      "ECE302",
+      "IT301"
+    ],
+    "contact": "wwilliams@example.com"
+  },
+  {
+    "student_id": "S049",
+    "name": "Kenneth Vaughn",
+    "department": "IT",
+    "courses_enrolled": [
+      "ECE302",
+      "CSE303",
+      "CSE301"
+    ],
+    "contact": "tammy86@example.org"
+  },
+  {
+    "student_id": "S050",
+    "name": "Charles Mills",
+    "department": "CSE",
+    "courses_enrolled": [
+      "CSE301",
+      "CSE302"
+    ],
+    "contact": "turnervincent@example.com"
+  }
+]
