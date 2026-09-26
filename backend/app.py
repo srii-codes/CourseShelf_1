@@ -21,8 +21,8 @@ books_collection = mongo_db["books"]
 # Neo4j Setup
 
 neo4j_driver = GraphDatabase.driver(
-    "neo4j+s://2e867fbc.databases.neo4j.io", 
-    auth=("2e867fbc", "PbRNv19lQnx5Phw_GSdxwo9emxvRdnv8odzCPXuNd0A")
+    "neo4j+s://<neo4j username here>.databases.neo4j.io", 
+    auth=("<neo4j username here>", "<neo4j password here>")
 )
 
 @app.route('/api/search', methods=['GET'])
