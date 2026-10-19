@@ -1,247 +1,387 @@
 [
   {
     "request_id": "R001",
-    "book_id": "B002",
-    "requester_id": "S028",
+    "book_id": "B018",
+    "requester_id": "S023",
     "status": "accepted",
-    "requested_on": "2026-08-27"
+    "requested_on": "2026-06-17"
   },
   {
     "request_id": "R002",
-    "book_id": "B039",
-    "requester_id": "S025",
-    "status": "pending",
-    "requested_on": "2026-08-08"
+    "book_id": "B043",
+    "requester_id": "S021",
+    "status": "accepted",
+    "requested_on": "2026-06-19"
   },
   {
     "request_id": "R003",
-    "book_id": "B042",
-    "requester_id": "S043",
-    "status": "pending",
-    "requested_on": "2026-09-08"
+    "book_id": "B040",
+    "requester_id": "S027",
+    "status": "accepted",
+    "requested_on": "2026-06-20"
   },
   {
     "request_id": "R004",
-    "book_id": "B022",
-    "requester_id": "S006",
+    "book_id": "B023",
+    "requester_id": "S040",
     "status": "accepted",
-    "requested_on": "2026-08-26"
+    "requested_on": "2026-07-04"
   },
   {
     "request_id": "R005",
-    "book_id": "B009",
-    "requester_id": "S019",
+    "book_id": "B003",
+    "requester_id": "S035",
     "status": "accepted",
-    "requested_on": "2026-08-02"
+    "requested_on": "2026-07-08"
   },
   {
     "request_id": "R006",
-    "book_id": "B026",
-    "requester_id": "S030",
-    "status": "pending",
-    "requested_on": "2026-09-20"
+    "book_id": "B035",
+    "requester_id": "S028",
+    "status": "accepted",
+    "requested_on": "2026-07-09"
   },
   {
     "request_id": "R007",
-    "book_id": "B032",
-    "requester_id": "S012",
-    "status": "pending",
-    "requested_on": "2026-08-08"
+    "book_id": "B016",
+    "requester_id": "S014",
+    "status": "accepted",
+    "requested_on": "2026-07-11"
   },
   {
     "request_id": "R008",
-    "book_id": "B027",
-    "requester_id": "S042",
-    "status": "pending",
-    "requested_on": "2026-07-28"
+    "book_id": "B005",
+    "requester_id": "S021",
+    "status": "accepted",
+    "requested_on": "2026-07-12"
   },
   {
     "request_id": "R009",
-    "book_id": "B050",
-    "requester_id": "S033",
-    "status": "pending",
-    "requested_on": "2026-09-02"
+    "book_id": "B029",
+    "requester_id": "S032",
+    "status": "accepted",
+    "requested_on": "2026-07-14"
   },
   {
     "request_id": "R010",
-    "book_id": "B007",
-    "requester_id": "S016",
-    "status": "pending",
-    "requested_on": "2026-08-24"
+    "book_id": "B043",
+    "requester_id": "S050",
+    "status": "accepted",
+    "requested_on": "2026-07-16"
   },
   {
     "request_id": "R011",
-    "book_id": "B032",
-    "requester_id": "S021",
-    "status": "declined",
-    "requested_on": "2026-07-27"
+    "book_id": "B041",
+    "requester_id": "S032",
+    "status": "accepted",
+    "requested_on": "2026-07-25"
   },
   {
     "request_id": "R012",
-    "book_id": "B021",
-    "requester_id": "S040",
-    "status": "declined",
-    "requested_on": "2026-08-17"
+    "book_id": "B026",
+    "requester_id": "S019",
+    "status": "accepted",
+    "requested_on": "2026-07-27"
   },
   {
     "request_id": "R013",
-    "book_id": "B046",
-    "requester_id": "S006",
+    "book_id": "B045",
+    "requester_id": "S037",
     "status": "accepted",
-    "requested_on": "2026-08-20"
+    "requested_on": "2026-07-30"
   },
   {
     "request_id": "R014",
-    "book_id": "B002",
-    "requester_id": "S031",
+    "book_id": "B042",
+    "requester_id": "S023",
     "status": "accepted",
-    "requested_on": "2026-07-28"
+    "requested_on": "2026-08-03"
   },
   {
     "request_id": "R015",
-    "book_id": "B028",
-    "requester_id": "S005",
-    "status": "pending",
-    "requested_on": "2026-08-09"
+    "book_id": "B014",
+    "requester_id": "S030",
+    "status": "accepted",
+    "requested_on": "2026-08-10"
   },
   {
     "request_id": "R016",
-    "book_id": "B037",
-    "requester_id": "S009",
-    "status": "pending",
-    "requested_on": "2026-07-29"
-  },
-  {
-    "request_id": "R017",
-    "book_id": "B032",
+    "book_id": "B043",
     "requester_id": "S021",
-    "status": "accepted",
-    "requested_on": "2026-09-06"
-  },
-  {
-    "request_id": "R018",
-    "book_id": "B038",
-    "requester_id": "S034",
-    "status": "accepted",
-    "requested_on": "2026-09-05"
-  },
-  {
-    "request_id": "R019",
-    "book_id": "B030",
-    "requester_id": "S036",
-    "status": "pending",
-    "requested_on": "2026-08-16"
-  },
-  {
-    "request_id": "R020",
-    "book_id": "B026",
-    "requester_id": "S006",
-    "status": "accepted",
-    "requested_on": "2026-09-07"
-  },
-  {
-    "request_id": "R021",
-    "book_id": "B028",
-    "requester_id": "S005",
-    "status": "declined",
-    "requested_on": "2026-08-24"
-  },
-  {
-    "request_id": "R022",
-    "book_id": "B047",
-    "requester_id": "S003",
-    "status": "declined",
-    "requested_on": "2026-09-18"
-  },
-  {
-    "request_id": "R023",
-    "book_id": "B035",
-    "requester_id": "S018",
-    "status": "pending",
-    "requested_on": "2026-09-10"
-  },
-  {
-    "request_id": "R024",
-    "book_id": "B042",
-    "requester_id": "S011",
-    "status": "pending",
-    "requested_on": "2026-08-31"
-  },
-  {
-    "request_id": "R025",
-    "book_id": "B009",
-    "requester_id": "S030",
-    "status": "declined",
-    "requested_on": "2026-07-28"
-  },
-  {
-    "request_id": "R026",
-    "book_id": "B005",
-    "requester_id": "S022",
-    "status": "accepted",
-    "requested_on": "2026-08-17"
-  },
-  {
-    "request_id": "R027",
-    "book_id": "B050",
-    "requester_id": "S050",
-    "status": "declined",
-    "requested_on": "2026-08-17"
-  },
-  {
-    "request_id": "R028",
-    "book_id": "B044",
-    "requester_id": "S043",
-    "status": "accepted",
-    "requested_on": "2026-09-05"
-  },
-  {
-    "request_id": "R029",
-    "book_id": "B003",
-    "requester_id": "S008",
-    "status": "accepted",
-    "requested_on": "2026-09-14"
-  },
-  {
-    "request_id": "R030",
-    "book_id": "B015",
-    "requester_id": "S040",
-    "status": "declined",
-    "requested_on": "2026-09-14"
-  },
-  {
-    "request_id": "R031",
-    "book_id": "B038",
-    "requester_id": "S021",
-    "status": "pending",
-    "requested_on": "2026-08-15"
-  },
-  {
-    "request_id": "R032",
-    "book_id": "B019",
-    "requester_id": "S008",
-    "status": "accepted",
-    "requested_on": "2026-08-09"
-  },
-  {
-    "request_id": "R033",
-    "book_id": "B042",
-    "requester_id": "S013",
-    "status": "declined",
-    "requested_on": "2026-09-23"
-  },
-  {
-    "request_id": "R034",
-    "book_id": "B024",
-    "requester_id": "S009",
     "status": "accepted",
     "requested_on": "2026-08-18"
   },
   {
-    "request_id": "R035",
-    "book_id": "B050",
-    "requester_id": "S033",
+    "request_id": "R017",
+    "book_id": "B006",
+    "requester_id": "S015",
+    "status": "accepted",
+    "requested_on": "2026-08-24"
+  },
+  {
+    "request_id": "R018",
+    "book_id": "B027",
+    "requester_id": "S017",
+    "status": "declined",
+    "requested_on": "2026-08-26"
+  },
+  {
+    "request_id": "R019",
+    "book_id": "B033",
+    "requester_id": "S027",
+    "status": "accepted",
+    "requested_on": "2026-08-30"
+  },
+  {
+    "request_id": "R020",
+    "book_id": "B045",
+    "requester_id": "S028",
+    "status": "accepted",
+    "requested_on": "2026-08-31"
+  },
+  {
+    "request_id": "R021",
+    "book_id": "B026",
+    "requester_id": "S050",
+    "status": "accepted",
+    "requested_on": "2026-09-04"
+  },
+  {
+    "request_id": "R022",
+    "book_id": "B023",
+    "requester_id": "S015",
+    "status": "declined",
+    "requested_on": "2026-09-07"
+  },
+  {
+    "request_id": "R023",
+    "book_id": "B018",
+    "requester_id": "S035",
+    "status": "accepted",
+    "requested_on": "2026-09-09"
+  },
+  {
+    "request_id": "R024",
+    "book_id": "B013",
+    "requester_id": "S002",
+    "status": "declined",
+    "requested_on": "2026-09-09"
+  },
+  {
+    "request_id": "R025",
+    "book_id": "B048",
+    "requester_id": "S034",
+    "status": "accepted",
+    "requested_on": "2026-09-13"
+  },
+  {
+    "request_id": "R026",
+    "book_id": "B035",
+    "requester_id": "S002",
     "status": "pending",
-    "requested_on": "2026-08-21"
+    "requested_on": "2026-09-20"
+  },
+  {
+    "request_id": "R027",
+    "book_id": "B033",
+    "requester_id": "S018",
+    "status": "accepted",
+    "requested_on": "2026-09-21"
+  },
+  {
+    "request_id": "R028",
+    "book_id": "B022",
+    "requester_id": "S050",
+    "status": "pending",
+    "requested_on": "2026-09-21"
+  },
+  {
+    "request_id": "R029",
+    "book_id": "B050",
+    "requester_id": "S012",
+    "status": "accepted",
+    "requested_on": "2026-09-22"
+  },
+  {
+    "request_id": "R030",
+    "book_id": "B034",
+    "requester_id": "S050",
+    "status": "accepted",
+    "requested_on": "2026-09-22"
+  },
+  {
+    "request_id": "R031",
+    "book_id": "B002",
+    "requester_id": "S039",
+    "status": "accepted",
+    "requested_on": "2026-09-23"
+  },
+  {
+    "request_id": "R032",
+    "book_id": "B029",
+    "requester_id": "S037",
+    "status": "accepted",
+    "requested_on": "2026-09-24"
+  },
+  {
+    "request_id": "R033",
+    "book_id": "B032",
+    "requester_id": "S018",
+    "status": "accepted",
+    "requested_on": "2026-09-25"
+  },
+  {
+    "request_id": "R034",
+    "book_id": "B025",
+    "requester_id": "S018",
+    "status": "pending",
+    "requested_on": "2026-09-25"
+  },
+  {
+    "request_id": "R035",
+    "book_id": "B022",
+    "requester_id": "S044",
+    "status": "pending",
+    "requested_on": "2026-09-28"
+  },
+  {
+    "request_id": "R036",
+    "book_id": "B005",
+    "requester_id": "S016",
+    "status": "accepted",
+    "requested_on": "2026-09-30"
+  },
+  {
+    "request_id": "R037",
+    "book_id": "B030",
+    "requester_id": "S009",
+    "status": "pending",
+    "requested_on": "2026-09-30"
+  },
+  {
+    "request_id": "R038",
+    "book_id": "B026",
+    "requester_id": "S038",
+    "status": "pending",
+    "requested_on": "2026-10-01"
+  },
+  {
+    "request_id": "R039",
+    "book_id": "B049",
+    "requester_id": "S003",
+    "status": "declined",
+    "requested_on": "2026-10-03"
+  },
+  {
+    "request_id": "R040",
+    "book_id": "B017",
+    "requester_id": "S029",
+    "status": "accepted",
+    "requested_on": "2026-10-04"
+  },
+  {
+    "request_id": "R041",
+    "book_id": "B011",
+    "requester_id": "S030",
+    "status": "accepted",
+    "requested_on": "2026-10-04"
+  },
+  {
+    "request_id": "R042",
+    "book_id": "B010",
+    "requester_id": "S032",
+    "status": "accepted",
+    "requested_on": "2026-10-05"
+  },
+  {
+    "request_id": "R043",
+    "book_id": "B009",
+    "requester_id": "S044",
+    "status": "accepted",
+    "requested_on": "2026-10-05"
+  },
+  {
+    "request_id": "R044",
+    "book_id": "B017",
+    "requester_id": "S025",
+    "status": "pending",
+    "requested_on": "2026-10-09"
+  },
+  {
+    "request_id": "R045",
+    "book_id": "B014",
+    "requester_id": "S031",
+    "status": "pending",
+    "requested_on": "2026-10-09"
+  },
+  {
+    "request_id": "R046",
+    "book_id": "B010",
+    "requester_id": "S017",
+    "status": "declined",
+    "requested_on": "2026-10-10"
+  },
+  {
+    "request_id": "R047",
+    "book_id": "B016",
+    "requester_id": "S031",
+    "status": "accepted",
+    "requested_on": "2026-10-12"
+  },
+  {
+    "request_id": "R048",
+    "book_id": "B017",
+    "requester_id": "S035",
+    "status": "accepted",
+    "requested_on": "2026-10-13"
+  },
+  {
+    "request_id": "R049",
+    "book_id": "B026",
+    "requester_id": "S048",
+    "status": "pending",
+    "requested_on": "2026-10-14"
+  },
+  {
+    "request_id": "R050",
+    "book_id": "B042",
+    "requester_id": "S029",
+    "status": "pending",
+    "requested_on": "2026-10-15"
+  },
+  {
+    "request_id": "R051",
+    "book_id": "B048",
+    "requester_id": "S036",
+    "status": "declined",
+    "requested_on": "2026-10-15"
+  },
+  {
+    "request_id": "R052",
+    "book_id": "B005",
+    "requester_id": "S043",
+    "status": "declined",
+    "requested_on": "2026-10-16"
+  },
+  {
+    "request_id": "R053",
+    "book_id": "B043",
+    "requester_id": "S003",
+    "status": "pending",
+    "requested_on": "2026-10-17"
+  },
+  {
+    "request_id": "R054",
+    "book_id": "B006",
+    "requester_id": "S031",
+    "status": "declined",
+    "requested_on": "2026-10-17"
+  },
+  {
+    "request_id": "R055",
+    "book_id": "B030",
+    "requester_id": "S012",
+    "status": "pending",
+    "requested_on": "2026-10-18"
   }
 ]
